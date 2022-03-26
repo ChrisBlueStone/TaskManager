@@ -107,7 +107,7 @@ Returns true if TaskManager has any non-expired tasks.
 Returns the number of non-expired tasks.
 
 ## Examples
-Below are some example snippets, but the full examples can be found in [/examples](./tree/master/examples)
+Below are some example snippets, but the full examples can be found in [/examples](/examples)
 
 - [Using a lambda as a task](#using-a-lambda-as-a-task)
 - [Using a function object as a task](#using-a-function-object-as-a-task)
